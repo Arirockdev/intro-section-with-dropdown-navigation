@@ -1,14 +1,12 @@
-# Frontend Mentor - Intro section with dropdown navigation
+# Intro section with dropdown navigation
 
+This is a simple section of a web page. It could be considered the home page, or even a simple web app.
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
 
 I used for this challenege:
-#### Html
-#### CSS
-#### Javascript
+- Html
+- CSS
+- Javascript
 
 **Have fun building!** 🚀
 
