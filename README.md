@@ -25,7 +25,7 @@ If you want to try this app
 1- Clone this repos
 
 ```bash
-https://github.com/Arirockdev/https-intro-section-with-dropdown-nav-main.netlify.app-.git
+https://github.com/Arirockdev/intro-section-with-dropdown-navigation.git
 ```
 
 2- Open the `index.html` file in your browser
